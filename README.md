@@ -2,7 +2,7 @@ Project Name:
 	MTG App
 
 Project Authors:
-	Thomas Quinn Langsfeld	thomas.langsfeld@colorado.edu
+	Thomas Quinn Langsfeld	thomas.langsfeld@colorado.edu,
 	Tyler Mauer				tyler.mauer@colorado.edu
 
 Final Prototype:
